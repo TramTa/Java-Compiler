@@ -1,3 +1,3 @@
 # Java-Compiler
 
-Course work
+partial course work
