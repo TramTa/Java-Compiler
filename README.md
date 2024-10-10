@@ -1,3 +1,5 @@
 # Java-Compiler
 
-partial course work
+Partial course work
+
+Implemented a compiler in Java.
