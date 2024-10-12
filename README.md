@@ -1,5 +1,5 @@
 # Java-Compiler
 
-Partial course work
+(Partial) course work
 
-Implemented a compiler in Java.
+Built abstract syntax tree and implemented a compiler in Java.
